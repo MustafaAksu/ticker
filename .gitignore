@@ -1,1 +1,18 @@
 data/processed/*.pkl`n*.pyc`n__pycache__/`nresults/`n*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# data & results
+data/processed/
+results/
+!results/.gitkeep
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
