@@ -1,0 +1,22 @@
+{
+  "regime": "calm",
+  "params": {
+    "alpha": 0.5,
+    "epsilon": 0.03,
+    "lambda_dir": 0.25,
+    "leadlag_window": 20,
+    "lambda_sector": 0.1,
+    "phase_eta": 0.9,
+    "phase_low": 3,
+    "phase_high": 30,
+    "phase_W": 60,
+    "phase_w_res": 0.5,
+    "phase_w_dir": 0.35,
+    "phase_w_amp": 0.15,
+    "phase_alpha": 1.0,
+    "phase_gamma": 4.0,
+    "z_quantile": 0.65,
+    "rebalance_every": 5,
+    "uot_rho": null
+  }
+}
